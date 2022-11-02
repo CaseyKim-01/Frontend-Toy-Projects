@@ -13,5 +13,5 @@ Koogle is my first HTML/CSS practice project. I cloned the Google website and ma
   3. Use Developer tool to try sizing the margins
 </p>
 
-![대체 텍스트](./Screen Shot 2022-11-02 at 10.34.57 AM.png)
+<img width="1512" alt="Screen Shot 2022-11-02 at 10 34 57 AM" src="https://user-images.githubusercontent.com/95491541/199519132-da56dc2c-4e90-494c-94bf-35448f1a167c.png">
 
