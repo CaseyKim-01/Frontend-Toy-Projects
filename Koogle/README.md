@@ -13,5 +13,5 @@ Koogle is my first HTML/CSS practice project. I cloned the Google website and ma
   3. Use Developer tool to try sizing the margins
 </p>
 
-![대체 텍스트](Koogle/Screen Shot 2022-11-02 at 10.34.57 AM.png)
+![대체 텍스트](./Screen Shot 2022-11-02 at 10.34.57 AM.png)
 
